@@ -1,5 +1,5 @@
 | 功能              | 代码                   | 说明                        |
 | ----------------- | ---------------------- | --------------------------- |
-| python中的?表达式 | ` a if logical else b` | 如果logical正确,得a,否则得b |
+| python中的?表达式 | ` a if logical else b` | 如果`logical`正确,得`a`,否则得`b` |
 | 清理屏幕上的输出  | `os.system("cls")`     |                             |
 | 休眠一会          | `time.sleep(seconds)`  |                             |
